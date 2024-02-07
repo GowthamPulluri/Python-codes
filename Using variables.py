@@ -1,5 +1,5 @@
 name ="Sasi"
-object_1  ="Car"
+object_1  ="Bike"
 object_1_color ="Black"
 object_2 ="Office"
 cost ="10000"
